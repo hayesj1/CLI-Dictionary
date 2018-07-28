@@ -1,0 +1,5 @@
+<words>
+	<word val="red" def="A color." syn="rosy" ant="None"/>
+	<word val="cat" def="An animal belongs to the Feline family. domesticated speices are commonly used as pets." syn="Feline" ant="None"/>
+	<word val="agitated" def="in a state and frustration or minor anger." syn="frustrated,annoyed" ant="happy,calm,content"/>
+</words>
